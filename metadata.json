@@ -1,0 +1,6 @@
+{
+  "name": "Punjab Emissions Inventory Platform",
+  "description": "Integrated Air Pollutant and GHG Emissions Inventory Management Platform for Punjab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Dashboard", "GIS Visualization", "Workflow Approvals", "Calculation Engine"]
+}
